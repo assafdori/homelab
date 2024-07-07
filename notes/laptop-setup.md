@@ -6,6 +6,10 @@ I have an old laptop that I don't use anymore. It's a Lenovo ThinkPad with an In
 
 I'm using [Ubuntu Server 22.04 LTS](https://ubuntu.com/server).
 
+### Setting up the network
+
+I need to set up the network. I'm going to use a static IP address.
+
 ### Disabling lid close action
 
 I don't want the laptop to go to sleep when I close the lid, so I need to disable the lid close action.
