@@ -1,4 +1,4 @@
-## Turning my old laptop into a Kubernetes cluster.
+## Setting up an old laptop as an Ubuntu server that can run Kubernetes.
 
 I have an old laptop that I don't use anymore. It's a Lenovo ThinkPad with an Intel Core i7 CPU, 8GB of RAM, and a 500GB hard drive. I've been thinking about what to do with it, and I've decided to turn it into a Kubernetes cluster.
 
