@@ -22,7 +22,7 @@
 - [k3s](https://k3s.io/)
 
 ## Goals: 🥅
-- 1. Setup an Ubuntu server using an old laptop. (including all the necessary tools, such as SSH, Docker, etc.)
-- 2. Create a Kubernetes cluster using k3s.
-- 3. Run Prometheus and Grafana stack within the cluster.
-- 4. Grafana URL should be accessible from the internet. (will require ingress, tls, DNS, etc.)
+- [ ] Setup an Ubuntu server using an old laptop. (including all the necessary tools, such as SSH, Docker, etc.)
+- [ ] Create a Kubernetes cluster using k3s.
+- [ ] Run Prometheus and Grafana stack within the cluster.
+- [ ] Grafana URL should be accessible from the internet. (will require ingress, tls, DNS, etc.)
