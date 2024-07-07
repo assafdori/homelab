@@ -10,6 +10,16 @@ I'm using [Ubuntu Server 22.04 LTS](https://ubuntu.com/server).
 
 I don't want the laptop to go to sleep when I close the lid, so I need to disable the lid close action.
 
+```bash
+sudo vi /etc/systemd/logind.conf
+
+# Uncomment the following line
+HandleLidSwitch=ignore
+
+# Uncomment the following line
+HandleLidSwitchDocked=ignore
+```
+
 ### Enabling SSH
 
 I need to enable SSH.
