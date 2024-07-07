@@ -1,5 +1,7 @@
 # Configuration & Documentation for my home lab 🏠
 
+## Initial Start Date: 7th June 2024 🚀
+
 ## Table of Contents 📚
 
 - [Configuration](#configuration)
