@@ -18,6 +18,9 @@ HandleLidSwitch=ignore
 
 # Uncomment the following line
 HandleLidSwitchDocked=ignore
+
+# Restart the systemd-logind service
+sudo service systemd-logind restart
 ```
 
 ### Enabling SSH
