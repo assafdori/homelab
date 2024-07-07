@@ -1,4 +1,4 @@
-# Configuration & Documentation for my Kubernetes home lab 🏠
+# Configuration & Documentation for my home lab 🏠
 
 ## Table of Contents 📚
 
