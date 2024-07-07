@@ -17,12 +17,9 @@
 - [k3s](https://k3s.io/)
 
 ## Resources 🏗️
-```
 
 ### Kubernetes
 - [k3s](https://k3s.io/)
-```
-
 
 ## Goals: 🥅
 - 1. Setup an Ubuntu server using an old laptop. (including all the necessary tools, such as SSH, Docker, etc.)
