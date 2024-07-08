@@ -2,8 +2,8 @@
 
 ## Initial Start Date: 7th June 2024 🚀
 
-#### Agenda: 📅
-The main goal of this project is to create a home lab using an old laptop. The lab will be used to learn and experiment with different technologies, such as Kubernetes, Prometheus, Grafana, etc. The project will be documented in this repository. I will pay more attention to the management and deployment of the cluster & control plane rather than all of the required components, which is why I went with k3s. 
+
+**The main goal of this project is to create a home lab using an old laptop. The lab will be used to learn and experiment with different technologies, such as Kubernetes, Prometheus, Grafana, etc. The project will be documented in this repository. I will pay more attention to the management and deployment of the cluster & control plane rather than all of the required components, which is why I went with k3s.** 
 
 
 ## Table of Contents 📚
